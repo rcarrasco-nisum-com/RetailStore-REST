@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProductServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-03-04T22:33:12" hostname="NI-NTB-091" time="0.027">
+  <properties/>
+  <testcase name="testSave" classname="ProductServiceTest" time="0.018"/>
+  <testcase name="testFindById" classname="ProductServiceTest" time="0.001"/>
+  <testcase name="testDelete" classname="ProductServiceTest" time="0.001"/>
+  <testcase name="testGetAll" classname="ProductServiceTest" time="0.004"/>
+  <testcase name="testUpdate" classname="ProductServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO ProductServiceTest - testSave()
+[Test worker] INFO ProductServiceTest - findByIdTest()
+[Test worker] INFO ProductServiceTest - testDelete()
+[Test worker] INFO ProductServiceTest - testGetAll()
+[Test worker] INFO ProductServiceTest - testUpdate()
+]]></system-err>
+</testsuite>
